@@ -1,0 +1,10 @@
+{
+    "contacts": "contacts",
+    "all": "contacts/all",
+    "add": "contacts/add",
+    "store": "contacts/store",
+    "edit": "contacts/edit/{contact_id}",
+    "save": "contacts/save",
+    "delete": "contacts/delete/{contact_id}",
+    "remove": "contacts/remove/{contact_id}"
+}
